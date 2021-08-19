@@ -7,20 +7,9 @@ Demo Video: https://github.com/eunicePops/user_input_display/blob/main/images/vi
 
 Gratitude to Zuri/HNG/i4g for their continous support
 
-https://training.zuri.team/![zuri](https://user-images.githubusercontent.com/40694423/130001438-a0d39246-9c90-455e-9cd0-dc918c198217.png)
+Zuri: https://training.zuri.team/ https://github.com/eunicePops/user_input_display/commit/4c43729a2841a7169429fe3241e055e2c8710b96#diff-e6418241fa89d1afa2044686fc9da49306ee161093b2264a9d3da66517958fc8
 
+Ingressive for Good i4G: https://ingressive.org/ https://github.com/eunicePops/user_input_display/commit/4c43729a2841a7169429fe3241e055e2c8710b96#diff-c789d4d7fa178be32fca8361c04a0224b09d1ae82594449b9d60ac490172e8e5
 
+HNG: https://hng.tech/  https://github.com/eunicePops/user_input_display/commit/4c43729a2841a7169429fe3241e055e2c8710b96#diff-56f4292af8e45254e64ce49c651d50405ff993a7e818ffae2934e3eac9d18b94## Getting Started
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
