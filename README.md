@@ -10,8 +10,7 @@ https://github.com/eunicePops/name_printout
 
 
 
-## Zuri: 
-https://training.zuri.team/
+## Zuri: https://training.zuri.team/
 ![image](https://user-images.githubusercontent.com/40694423/130002180-23bf38ee-0f28-4002-ab34-10c79799383c.png)
 
 
