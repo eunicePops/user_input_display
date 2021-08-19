@@ -61,7 +61,7 @@ class _ResultScreenState extends State<ResultScreen> {
                 padding: const EdgeInsets.all(16.0),
                 child: Center(
                   child: Text(
-                    'Question asked from User will be displayed in dialog box',
+                    'Answer to question asked from User will be displayed in a dialog box',
                     style: TextStyle(
                         color: Colors.black,
                         fontSize: 20,
@@ -79,8 +79,7 @@ class _ResultScreenState extends State<ResultScreen> {
                   style: TextStyle(
                       color: Colors.blueAccent,
                       fontSize: 20,
-                      fontWeight: FontWeight.bold,
-                      fontStyle: FontStyle.italic ),
+                      fontWeight: FontWeight.bold),
                     textAlign: TextAlign.center
                 ),
               ),
