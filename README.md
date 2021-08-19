@@ -1,14 +1,9 @@
 
-#[Task2]
+# Task2
 https://github.com/eunicePops/name_printout
 
 
 # user_input_display
-
-A new Flutter application.
-
-
-
 ![image](https://github.com/eunicePops/user_input_display/blob/main/images/video.GIF)
 
 
