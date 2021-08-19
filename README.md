@@ -3,8 +3,7 @@
 A new Flutter application.
 
 
-https://github.com/eunicePops/user_input_display/blob/main/images/video.GIF
-
+![image](https://github.com/eunicePops/user_input_display/blob/main/images/video.GIF)
 
 
 Gratitude to Zuri/HNG/i4g for their continous support
