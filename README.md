@@ -5,6 +5,11 @@ A new Flutter application.
 
 Demo Video: https://github.com/eunicePops/user_input_display/blob/main/images/video.GIF
 
+Gratitude to Zuri/HNG/i4g for their continous support
+
+https://training.zuri.team/![zuri](https://user-images.githubusercontent.com/40694423/130001438-a0d39246-9c90-455e-9cd0-dc918c198217.png)
+
+
 
 
 ## Getting Started
