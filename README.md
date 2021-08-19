@@ -1,21 +1,26 @@
-# user_input_display
 
-A new Flutter application.
-
-
-Demo Video: https://github.com/eunicePops/user_input_display/blob/main/images/video.GIF
+## Task2
+https://github.com/eunicePops/name_printout
 
 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## user_input_display
+![image](https://github.com/eunicePops/user_input_display/blob/main/images/video.GIF)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Zuri: https://training.zuri.team/
+![image](https://user-images.githubusercontent.com/40694423/130002180-23bf38ee-0f28-4002-ab34-10c79799383c.png)
+
+
+
+
+## Ingressive for Good i4G: https://ingressive.org/
+![image](https://user-images.githubusercontent.com/40694423/130002122-8b8c0130-fd32-4083-b04b-c8029f840b8e.png)
+
+
+
+
+## HNG: https://hng.tech/ 
+![image](https://user-images.githubusercontent.com/40694423/130002046-617deec6-dd3c-44a7-bb87-752a8ea04ba2.png)
