@@ -3,9 +3,8 @@
 A new Flutter application.
 
 
+https://github.com/eunicePops/user_input_display/blob/main/images/video.GIF
 
-
-Create video.GIF
 
 
 Gratitude to Zuri/HNG/i4g for their continous support
